@@ -193,9 +193,7 @@ raya/
 │       ├── components/         # Reusable UI components (sidebar, logo)
 │       └── lib/                # API client, utilities
 ├── screenshot_*.png            # App screenshots for presentation
-├── presentation_script.md      # 3-minute pitch script
-├── qa_cheatsheet.md            # Q&A preparation guide
-└── pencil-new.pen              # Presentation slide designs
+├── qa_cheatsheet.md            # Q&A guide
 ```
 
 ---

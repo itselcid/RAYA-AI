@@ -1,0 +1,68 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap'); */
+
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "Wessam";
+  src: url("/fonts/Arslan-Wessam-B.ttf") format("truetype");
+  /* font-weight: bold; */
+  /* font-style: normal; */
+}
+
+@font-face {
+  font-family: "Allura";
+  src: url("/fonts/allura.regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+.classic_font {
+  font-family: "Allura", cursive;
+}
+
+
+.wessam_font{
+  font-family: "Wessam";
+}
+
+@theme inline {
+  --color-background: #F8FAFC;
+  --color-foreground: #111827;
+  --color-sidebar: #0F3D2E;
+  --color-sidebar-hover: #164D3B;
+  --color-sidebar-active: #164D3B;
+  --color-sidebar-text: #A7C4B8;
+  --color-sidebar-text-active: #FFFFFF;
+  --color-accent: #0F3D2E;
+  --color-accent-light: #F0FDF4;
+  --color-accent-hover: #164D3B;
+  --color-card: #FFFFFF;
+  --color-border: #E5E7EB;
+  --color-border-light: #F3F4F6;
+  --color-text-primary: #111827;
+  --color-text-secondary: #6B7280;
+  --color-text-tertiary: #9CA3AF;
+  --color-success: #10B981;
+  --color-success-light: #ECFDF5;
+  --color-warning: #F59E0B;
+  --color-warning-light: #FFFBEB;
+  --color-error: #EF4444;
+  --color-error-light: #FEF2F2;
+  --color-info: #3B82F6;
+  --color-info-light: #EFF6FF;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+}

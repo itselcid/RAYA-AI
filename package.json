@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "puppeteer": "^24.37.3"
+  }
+}

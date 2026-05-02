@@ -105,7 +105,7 @@ RAYA speaks Darija in real-time. The right panel shows the doctor's configured q
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/raya.git
+git clone git@github.com:itselcid/RAYA-AI.git
 cd raya
 ```
 

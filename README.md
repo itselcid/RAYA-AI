@@ -205,8 +205,5 @@ raya/
 - **ROI:** 1 prevented readmission = **15,000 – 50,000 MAD** saved
 - **Expansion:** Morocco → Gulf → France (diaspora) → Sub-Saharan Africa
 
----
-
-Built at **CURECODE Hackathon  UM6P - Faculty of Medical Sciences & UM6P Hospitals  x 1337 Benguerir 2026**
 
 

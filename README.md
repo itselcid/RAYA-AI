@@ -196,7 +196,7 @@ raya/
 ├── qa_cheatsheet.md            # Q&A guide
 ```
 
----
+----
 
 ## The Business Opportunity
 
